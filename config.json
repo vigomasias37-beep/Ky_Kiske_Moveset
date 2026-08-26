@@ -1,0 +1,15 @@
+{
+  "new-dir-files": {
+    "fighter/ken/c00": [
+      "fighter/ken/model/body/c00/cell_shade_1_layer.nutexb",
+      "fighter/ken/model/body/c00/cell_shading_ggst.nutexb",
+      "fighter/ken/model/body/c00/KYK_base.nutexb",
+      "fighter/ken/model/body/c00/kyk_col_prm.nutexb",
+      "fighter/ken/model/body/c00/KYK_decal.nutexb",
+      "fighter/ken/model/body/c00/KYKW_base.nutexb",
+      "fighter/ken/model/body/c00/weaponprm.nutexb",
+      "fighter/ken/model/body/c00/sword_bloom.nutexb",
+      "fighter/ken/model/body/c00/swordslash02.nutexb"
+    ]
+  }
+}
